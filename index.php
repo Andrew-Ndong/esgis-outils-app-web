@@ -7,7 +7,7 @@
     <title>Formulaire</title>
 </head>
 <body>
-    <form action=""></form>
+    <form action="">
     <h1>Formulaire d'inscription</h1>
     <div>
         <label for="nom">Nom:</label>
